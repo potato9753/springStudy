@@ -1,0 +1,10 @@
+package com.controller;
+
+public class Snippet {
+	HttpSession session = req.getSession(true);
+			UserVO user = service.userLogin(userVO);
+			
+			session.setMaxInactiveInterval(3600); // 1800 = 60s*60 (30분) 
+			session.setAttribute("user", user);
+}
+

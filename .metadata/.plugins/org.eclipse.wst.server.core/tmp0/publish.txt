@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Tue Feb 16 17:18:15 KST 2021
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\KTDS\\.m2\\repository\\org\\springframework\\spring-web\\5.2.12.RELEASE\\spring-web-5.2.12.RELEASE.jar=C\:\\springStudy\\apache-tomcat-8.5.61\\webapps\\SW(B))_\uC774\uC7AC\uC9C4\\WEB-INF\\lib\\spring-web-5.2.12.RELEASE.jar
+org.eclipse.jst.jee.server\:SW(B))_\uC774\uC7AC\uC9C4=C\:\\springStudy\\apache-tomcat-8.5.61\\webapps\\SW(B))_\uC774\uC7AC\uC9C4

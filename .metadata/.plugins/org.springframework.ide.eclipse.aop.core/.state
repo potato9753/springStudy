@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="01Test_01"/>
+<aop-project name="01Day4_MyBatis_xml"/>
+<aop-project name="02Day_web4_Model贸府2"/>
+<aop-project name="01Day2_multi"/>
+<aop-project name="03Day_web_request_model_view"/>
+<aop-project name="03Day_web3_@ResponseBody_JSON"/>
+<aop-project name="03Day_web4_Board_Test"/>
+<aop-project name="01Day4_MyBatis_xml_annotation"/>
+<aop-project name="02Day_web_basic2_InternalResourceViewReolver"/>
+<aop-project name="SW(B))_捞犁柳"/>
+<aop-project name="01Day3_DI_积己磊"/>
+<aop-project name="01Day3_DI_积己磊2"/>
+<aop-project name="01Day4_MyBatis_xml_annotation3_componentScan"/>
+<aop-project name="03Day_web4_Board1"/>
+<aop-project name="02Day_web3_RequestMethod"/>
+<aop-project name="02Day_web_template"/>
+<aop-project name="02Day_web4_Model贸府_ModelAndView"/>
+<aop-project name="03Day_web2_redirect"/>
+<aop-project name="02Day_web2_@RequestParam"/>
+<aop-project name="01Day_template"/>
+<aop-project name="01Day3_DI2_setter2"/>
+<aop-project name="01Day4_MyBatis_xml_annotation2"/>
+<aop-project name="02Day_web_basic"/>
+<aop-project name="03Day_web4_Board"/>
+<aop-project name="01Day3_DI2_setter"/>
+<aop-project name="01Day_basic"/>
+</aop-reference-model>
